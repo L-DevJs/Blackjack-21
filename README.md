@@ -7,6 +7,6 @@ Game Blackjack
 
 ### Uso Local
 - Clonar Repositorio
-- Modificarla configuracion de **Vite**
+- Modificar la configuracion de **Vite**
 - Ejecutar **npm install** para generar los modulos de node
 - Ejecutar en el devServer con **npm run dev**
