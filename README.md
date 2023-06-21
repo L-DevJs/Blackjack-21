@@ -2,7 +2,7 @@
 Game Blackjack
 
 
-![Pre-visualizacion](/ruta/a/la/imagen.jpg)
+![Pre-visualizacion](public/images/pre-visualizer.png)
 
 
 ### Uso Local
