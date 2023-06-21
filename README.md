@@ -4,6 +4,7 @@ Game Blackjack
 
 ![Pre-visualizacion](public/images/pre-visualizer.png)
 
+[enlace en línea](https://l-devjs.github.io/Blackjack-21/)
 
 ### Uso Local
 - Clonar Repositorio
